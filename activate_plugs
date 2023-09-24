@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+./bin/set_tf_alias
+./bin/install_terraform_cli
+./bin/generate_tfrc_credentials
+./bin/install_aws_cli
