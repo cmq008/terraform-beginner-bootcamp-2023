@@ -4,3 +4,4 @@
 ./bin/install_terraform_cli
 ./bin/generate_tfrc_credentials
 ./bin/install_aws_cli
+cp $PROJECT_ROOT/terraform.tfvars.example $PROJECT_ROOT/terraform.tfvars
