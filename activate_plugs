@@ -5,3 +5,4 @@
 ./bin/generate_tfrc_credentials
 ./bin/install_aws_cli
 cp $PROJECT_ROOT/terraform.tfvars.example $PROJECT_ROOT/terraform.tfvars
+npm install --global http-server
